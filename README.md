@@ -1,28 +1,28 @@
-# 👋 Hi, I’m @Ahmadsulaimankhail
+# 👋 Hallo, ich bin @Ahmadsulaimankhail
 
-I'm a student based in Germany, currently diving into the world of programming.
+Ich bin Schüler und lebe in Deutschland. Momentan tauche ich tief in die Welt der Programmierung ein.
 
-I’m passionate about learning how things work and turning ideas into code. Every day is a new chance to grow and build something cool!
-
----
-
-## 🚀 About Me
-
-- 🎓 Still in school and learning programming  
-- 🌍 Based in: Germany 🇩🇪  
-- 💡 Interested in: Web development, software engineering, and tech in general  
-- 🧱 Currently learning: Python, HTML/CSS, JavaScript (and always curious for more)  
-- 🙅‍♂️ No pets, but I like animals!
+Ich liebe es, herauszufinden, wie Dinge funktionieren, und Ideen in Code zu verwandeln. Jeder Tag ist eine neue Chance, zu lernen und etwas Cooles zu bauen!
 
 ---
 
-## 📚 Learning Goals
+## 🚀 Über mich
 
-- Contribute to an open source project 🛠️  
-- Improve problem-solving with code 🧠  
+- 🎓 Noch in der Schule und lerne Programmieren  
+- 🌍 Standort: Deutschland 🇩🇪  
+- 💡 Interessen: Webentwicklung, Softwareentwicklung und Technologie im Allgemeinen  
+- 🧱 Derzeit am Lernen: Python, HTML/CSS, JavaScript (und immer neugierig auf mehr)  
+- 🙅‍♂️ Keine Haustiere, aber ich mag Tiere!
+
+---
+
+## 📚 Lernziele
+
+- An einem Open-Source-Projekt mitwirken 🛠️  
+- Problemlösungsfähigkeiten mit Code verbessern 🧠  
 
 ---
 
 ## 💬 Fun Fact
 
-I just started programming, but I’m already hooked!
+Ich habe gerade erst mit dem Programmieren angefangen – aber ich bin jetzt schon voll dabei!
